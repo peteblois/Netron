@@ -5,7 +5,7 @@ import os
 import platform
 import sys
 import webbrowser
-import onnx
+import onnx_pb2
 
 if sys.version_info[0] > 2:
     from urllib.parse import urlparse
